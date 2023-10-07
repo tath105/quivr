@@ -71,7 +71,7 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
   - If you don't have an SSH key set up:
 
   ```bash
-  git clone https://github.com/StanGirard/Quivr.git && cd Quivr
+  git clone https://github.com/tath105/quivr.git && cd Quivr
   ```
 
   - If you have an SSH key set up or want to add it ([guide here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
